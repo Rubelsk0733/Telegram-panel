@@ -265,31 +265,31 @@ function processPost(caption) {
     [
       {
         text: "🎰 𝗡𝗲𝘄 𝗚𝗮𝗺𝗲 𝟰𝟱",
-        url: "https://t.me/VipYonoFreeCode/3783",
+        url: "https://t.me/DailyBonusReward/68",
         style: "primary"
       },
       {
         text: "𝗧𝗼𝘁𝗮𝗹 𝗚𝗮𝗺𝗲 𝟳𝟬 🎰",
-        url: "https://t.me/AllYonoRummyCode/138",
+        url: "https://t.me/DailyBonusReward/68",
         style: "primary"
       }
     ],
     [
       {
-        text: " 🤖 𝗬𝗼𝗻𝗼 𝗔𝗜 𝗕𝗼𝘁 🤖",
-        url: "https://t.me/YonoGamingHeadAIBot",
+        text: " 🔥 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 🔥",
+        url: "https://bin6go101.com/?code=6YFHBDDVWYJ&t=1786053717",
         style: "success"
       },
       {
-        text: "​🤖 𝗣𝗿𝗼𝗺𝗼 𝗖𝗼𝗱𝗲 𝗕𝗼𝘁 🤖",
-        url: "https://t.me/spin_crush_bot",
+        text: "​🤖 𝗣𝗿𝗼𝗺𝗼 𝗖𝗼𝗱𝗲 🤖",
+        url: "https://t.me/DailyBonusReward",
         style: "success"
       }
     ],
     [
       {
-        text: "🔥 𝗬𝗼𝗻𝗼 𝗠𝗮𝘀𝘁𝗲𝗿 𝗔𝗽𝗽 🔥",
-        url: "https://www.fastyonoapp.online",
+        text: "🔥 𝗬𝗼𝗻𝗼 𝗠𝗮𝘀𝘁𝗲𝗿 𝗖𝗼𝗱𝗲 🔥",
+        url: "https://t.me/yonoallgames7",
         style: "primary"
       }
     ]
