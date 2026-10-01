@@ -295,18 +295,6 @@ function processPost(caption) {
     ],
     [
       {
-        text: " 🔥 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 🔥",
-        url: "https://bin6go101.com/?code=6YFHBDDVWYJ&t=1786053717",
-        style: "success"
-      },
-      {
-        text: "​🎟️ 𝗣𝗿𝗼𝗺𝗼 𝗖𝗼𝗱𝗲 🎟️",
-        url: "https://t.me/DailyBonusReward",
-        style: "success"
-      }
-    ],
-    [
-      {
         text: "🔥 𝗬𝗼𝗻𝗼 𝗠𝗮𝘀𝘁𝗲𝗿 𝗖𝗼𝗱𝗲 🔥",
         url: "https://t.me/yonoallgames7",
         style: "primary"
