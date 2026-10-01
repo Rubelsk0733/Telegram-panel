@@ -283,21 +283,21 @@ function processPost(caption) {
   const inlineKeyboard = [
     [
       {
-        text: "🎰 𝗡𝗲𝘄 𝗚𝗮𝗺𝗲 𝟰𝟱",
-        url: "https://t.me/DailyBonusReward/68",
+        text: "🎰 𝗧𝗿𝗮𝗻𝗱𝗶𝗻𝗴 𝗚𝗮𝗺𝗲",
+        url: "https://bin6go101.com/?code=6YFHBDDVWYJ&t=1786053717",
         style: "primary"
       },
       {
-        text: "𝗧𝗼𝘁𝗮𝗹 𝗚𝗮𝗺𝗲 𝟳𝟬 🎰",
-        url: "https://t.me/DailyBonusReward/68",
+        text: "𝗡𝗲𝘄 𝗟𝗮𝘂𝗻𝗰𝗵 🎰",
+        url: "https://www.jeetspin14.com/?code=SYHTC5Y9A1E&t=1790744439",
         style: "primary"
       }
     ],
     [
       {
-        text: "🔥 𝗬𝗼𝗻𝗼 𝗠𝗮𝘀𝘁𝗲𝗿 𝗖𝗼𝗱𝗲 🔥",
-        url: "https://t.me/yonoallgames7",
-        style: "primary"
+        text: "🔥 𝗧𝗼𝘁𝗮𝗹 𝗚𝗮𝗺𝗲 𝟳𝟬 🔥",
+        url: "https://t.me/DailyBonusReward/68",
+        style: "successful"
       }
     ]
   ];
