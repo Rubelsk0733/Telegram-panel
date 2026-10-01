@@ -297,7 +297,7 @@ function processPost(caption) {
       {
         text: "🔥 𝗧𝗼𝘁𝗮𝗹 𝗚𝗮𝗺𝗲 𝟳𝟬 🔥",
         url: "https://t.me/DailyBonusReward/68",
-        style: "successful"
+        style: "success"
       }
     ]
   ];
